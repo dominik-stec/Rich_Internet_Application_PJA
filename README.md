@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://gdansk.pja.edu.pl/pl/">
-    <img src="images/logo.jpg" alt="Logo" width="400" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
   <h3 align="center">BIU_PJATK</h3>
