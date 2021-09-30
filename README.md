@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://gdansk.pja.edu.pl/pl/">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="400" height="80">
   </a>
 
   <h3 align="center">BIU_PJATK</h3>
@@ -123,7 +123,7 @@ Angular devkit package intall with Node Package Manager is need.
    ```
 4. Run project in web browser
    Default adress set in framewrok is:
-   [localhost:4200](https://localhost:4200/)
+   [https://localhost:4200/](https://localhost:4200/)
 
 
 
@@ -166,7 +166,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Dominik Stec - [@email](dccstcc@gmail.com) - dccstcc@gmail.com
+Dominik Stec - dccstcc@gmail.com
 
 Project Link: [https://github.com/dccstcc/BIU_PJATK.git](https://github.com/dccstcc/BIU_PJATK.git)
 
@@ -192,8 +192,8 @@ Project Link: [https://github.com/dccstcc/BIU_PJATK.git](https://github.com/dccs
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/dccstcc/BIU_PJATK.svg?style=for-the-badge
+[contributors-url]: https://github.com/dccstcc/BIU_PJATK/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
