@@ -19,9 +19,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![NO LICENSE][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![NO LICENSE][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
