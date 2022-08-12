@@ -1,5 +1,5 @@
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** Thanks for checking out c. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
@@ -202,7 +202,7 @@ Project Link: [https://github.com/dccstcc/BIU_PJATK.git](https://github.com/dccs
 [stars-url]: https://github.com/dccstcc/BIU_PJATK/stargazers
 [issues-shield]: https://img.shields.io/github/issues/dccstcc/BIU_PJATK.svg?style=for-the-badge
 [issues-url]: https://github.com/dccstcc/BIU_PJATK/issues
-[license-shield]: https://img.shields.io/github/license/dccstcc/BIU_PJATK.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-NONE-orange
 [license-url]: https://github.com/dccstcc/BIU_PJATK/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
