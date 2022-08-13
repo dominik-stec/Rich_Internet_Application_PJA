@@ -86,8 +86,8 @@ In this project I realise Single Page Application with Angular in version 5. SPA
 ### Built With
 
 This project use technology below.
-* [Bootstrap](https://getbootstrap.com)
-* [Angular](https://angular.io/)
+* [![Bootstrap][bootstrap-shield]][bootstrap-url]
+* [![Angular][angular-shield]][angular-url]
 
 
 <!-- GETTING STARTED -->
@@ -169,6 +169,8 @@ See `LICENSE` for more information.
 
 Dominik Stec - dccstcc@gmail.com
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 Project Link: [https://github.com/dccstcc/BIU_PJATK.git](https://github.com/dccstcc/BIU_PJATK.git)
 
 
@@ -206,3 +208,8 @@ Project Link: [https://github.com/dccstcc/BIU_PJATK.git](https://github.com/dccs
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
+
+[angular-shield]: https://img.shields.io/badge/-Angular-red
+[angular-url]: https://angular.io/
+[bootstrap-shield]: https://img.shields.io/badge/-Bootstrap-blue
+[bootstrap-url]: https://getbootstrap.com/
