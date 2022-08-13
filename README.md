@@ -22,7 +22,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![NO LICENSE][license-shield]][license-url]
 
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -30,7 +29,7 @@
     <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
-  <h3 align="center">BIU_PJATK</h3>
+  <h2 align="center">BIU_PJATK</h2>
 
   <p align="center">
     Rich Interfaces of User subject in PJATK
