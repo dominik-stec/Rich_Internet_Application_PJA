@@ -170,7 +170,7 @@ Dominik Stec - dccstcc@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project url: 
+Project URL: 
 <br />
 `https://github.com/dccstcc/BIU_PJATK.git`
 
