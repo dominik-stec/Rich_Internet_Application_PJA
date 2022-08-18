@@ -32,9 +32,9 @@
   <h2 align="center">BIU_PJATK</h2>
 
   <p align="center">
-    Rich Interfaces of User subject in PJATK
+    <h3> Rich Interfaces of User subject in PJATK </h3>
     <br />
-    <a href="https://github.com/dccstcc/BIU_PJATK"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dccstcc/BIU_PJATK"><strong>» go to CODE »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
