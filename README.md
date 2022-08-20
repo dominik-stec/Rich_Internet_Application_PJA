@@ -78,7 +78,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Main_view][product-screenshot]][product-screenshot]
+<!-- [![Main_view][product-screenshot]][product-screenshot] -->
+<img src="images/screenshot.png" width="500"/>
+
 
 In this project I realise Single Page Application with Angular in version 5. SPA module is representation of user authorization process with field content control against throws exceptions caused wrong keybord typing.
 
