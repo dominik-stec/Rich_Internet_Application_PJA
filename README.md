@@ -207,7 +207,7 @@ Project URL:
 [issues-shield]: https://img.shields.io/github/issues/dccstcc/BIU_PJATK.svg?style=for-the-badge
 [issues-url]: https://github.com/dccstcc/BIU_PJATK/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dccstcc/BIU_PJATK/blob/master/LICENSE.txt
+[license-url]: https://github.com/dccstcc/BIU_PJATK/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
