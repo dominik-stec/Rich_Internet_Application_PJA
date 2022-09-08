@@ -99,8 +99,8 @@ This is instructions on setting up this project locally.
 ### Prerequisites
 
 NodeJS framework is required. <br />
-Angular CLI package intall with Node Package Manager is need. <br />
-Angular devkit package intall with Node Package Manager is need. <br />
+Angular CLI package install with Node Package Manager is need. <br />
+Angular devkit package install with Node Package Manager is need. <br />
 * npm
   ```sh
   npm install -g @angular/cli
