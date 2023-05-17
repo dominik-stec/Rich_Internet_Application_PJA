@@ -5,8 +5,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -15,6 +13,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -45,8 +44,6 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -58,7 +55,10 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#docker">Docker</a>
+    </li>
+    <li>
+      <a href="#native-deploy">Native deploy</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -73,26 +73,34 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 <!-- [![Main_view][product-screenshot]][product-screenshot] -->
 <img src="images/screenshot.png" width="500"/>
-
 
 In this project I realise Single Page Application with Angular in version 5. SPA module is representation of user authorization process with field content control against throws exceptions caused wrong keybord typing.
 
 ### Built With
 
 This project use technology below.
-* [![Bootstrap][bootstrap-shield]][bootstrap-url]
-* [![Angular][angular-shield]][angular-url]
 
+- [![Bootstrap][bootstrap-shield]][bootstrap-url]
+- [![Angular][angular-shield]][angular-url]
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- DOCKER -->
+
+## Docker
+
+```sh
+docker build -t biupjatk:latest .
+docker run -it -p 4200:4200 --name biupjatk biupjatk:latest
+```
+
+<!-- NATIVE DEPLOY -->
+
+## Native deploy
 
 This is instructions on setting up this project locally.
 
@@ -101,7 +109,8 @@ This is instructions on setting up this project locally.
 NodeJS framework is required. <br />
 Angular CLI package install with Node Package Manager is need. <br />
 Angular devkit package install with Node Package Manager is need. <br />
-* npm
+
+- npm
   ```sh
   npm install -g @angular/cli
   npm install --save-dev @angular-devkit/build-angular
@@ -125,25 +134,22 @@ Angular devkit package install with Node Package Manager is need. <br />
    Default adress set in framewrok is:
    [https://localhost:4200/](https://localhost:4200/)
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 As first we need to register user in system use fields with personal user data. Unappropriate entries are detected and user will see typing error. After user registration process we can sign into service with given user name and password.
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
-
-
-<!-- ROADMAP 
+<!-- ROADMAP
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 -->
 
-<!-- CONTRIBUTING 
+<!-- CONTRIBUTING
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -157,28 +163,26 @@ Contributions are what make the open source community such an amazing place to l
 -->
 
 <!-- LICENSE -->
+
 ## License
 
 This project has not a license.
-All rights are reserved and it is not Open Source or free. You cannot modify or redistribute this code without explicit permission from the copyright holder, because projects I realised are my materials from PJATK studies. 
+All rights are reserved and it is not Open Source or free. You cannot modify or redistribute this code without explicit permission from the copyright holder, because projects I realised are my materials from PJATK studies.
 See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Dominik Stec - dccstcc@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project URL: 
+Project URL:
 <br />
 `https://github.com/dccstcc/BIU_PJATK.git`
 
-
-
-<!-- ACKNOWLEDGEMENTS 
+<!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -194,10 +198,9 @@ Project URL:
 
 -->
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/dccstcc/BIU_PJATK.svg?style=for-the-badge
 [contributors-url]: https://github.com/dccstcc/BIU_PJATK/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/dccstcc/BIU_PJATK.svg?style=for-the-badge
@@ -211,7 +214,6 @@ Project URL:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
-
 [angular-shield]: https://img.shields.io/badge/-Angular-red
 [angular-url]: https://angular.io/
 [bootstrap-shield]: https://img.shields.io/badge/-Bootstrap-blue
