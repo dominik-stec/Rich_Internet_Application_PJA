@@ -49,26 +49,26 @@
   <summary>Table of contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Project description</a>
+      <a href="#Project description">Project description</a>
       <ul>
-        <li><a href="#built-with">Libraries / Frameworks</a></li>
+        <li><a href="#Libraries / Frameworks">Libraries / Frameworks</a></li>
       </ul>
     </li>
     <li>
-      <a href="#docker">Docker deploy</a>
+      <a href="#Docker deploy">Docker deploy</a>
     </li>
     <li>
-      <a href="#native-deploy">Native deploy</a>
+      <a href="#Native deploy">Native deploy</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Prerequisites">Prerequisites</a></li>
+        <li><a href="#Installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">How to use ?</a></li>
+    <li><a href="#How to use ?">How to use ?</a></li>
     <!-- <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li> -->
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact with me</a></li>
+    <li><a href="#License">License</a></li>
+    <li><a href="#Contact">Contact with me</a></li>
     <!-- <li><a href="#acknowledgements">Acknowledgements</a></li> -->
   </ol>
 </details>
