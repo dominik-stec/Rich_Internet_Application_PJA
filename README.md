@@ -33,7 +33,7 @@
   <p align="center">
     <h3> Bogate Interfejsy Użytkownika (BIU PJATK) </h3>
     <br />
-    <a href="https://github.com/dccstcc/Rich_Internet_Application_PJA"><strong>» go to source code »</strong></a>
+    <a href="https://github.com/dominik-stec/Rich_Internet_Application_PJA"><strong>» go to source code »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
