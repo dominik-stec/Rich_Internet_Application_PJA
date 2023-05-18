@@ -30,18 +30,18 @@
 
   <h2 align="center">Rich Internet Application (RIA) subject in PJATK</h2>
 
-  <!-- <p align="center">
+  <p align="center">
     <h3> Bogate Interfejsy Użytkownika (BIU PJATK) </h3>
     <br />
-    <a href="https://github.com/dominik-stec/Rich_Internet_Application_PJA"><strong>» go to source code »</strong></a>
+    <!-- <a href="https://github.com/dominik-stec/Rich_Internet_Application_PJA"><strong>» go to source code »</strong></a> -->
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p> -->
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
+  </p>
 </p>
 
 <!-- TABLE OF CONTENTS -->
