@@ -28,14 +28,14 @@
     <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
-  <h2 align="center">Rich Internet Application (RIA) subject in PJATK</h2>
+  <h2 align="center">Rich Internet Application</h2>
 
   <p align="center">
-    <h3> Bogate Interfejsy Użytkownika (BIU PJATK) </h3>
-    <br />
+    <h4> Bogate Interfejsy Użytkownika (BIU) lecture module in PJATK </h4>
+    <!-- <br /> -->
     <!-- <a href="https://github.com/dominik-stec/Rich_Internet_Application_PJA"><strong>» go to source code »</strong></a> -->
-    <br />
-    <br />
+    <!-- <br />
+    <br /> -->
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
