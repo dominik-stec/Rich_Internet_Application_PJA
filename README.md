@@ -51,7 +51,7 @@
     <li>
       <a href="#Project-description">Project description</a>
       <ul>
-        <li><a href="#Libraries-//-Frameworks">Libraries / Frameworks</a></li>
+        <li><a href="#Libraries-and-frameworks">Libraries / Frameworks</a></li>
       </ul>
     </li>
     <li>
@@ -64,7 +64,7 @@
         <li><a href="#Installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#How-to-use-/?">How to use ?</a></li>
+    <li><a href="#How-to-use">How to use ?</a></li>
     <!-- <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#License">License</a></li>
@@ -82,7 +82,7 @@
 
 In this project I realise Single Page Application with Angular in version 5. SPA module is representation of user authorization process with field content control against throws exceptions caused wrong keybord typing.
 
-### Libraries / Frameworks
+### Libraries and frameworks
 
 This project use technology below.
 
@@ -140,7 +140,7 @@ Angular devkit package install with Node Package Manager is need. <br />
 
 <!-- USAGE EXAMPLES -->
 
-## How to use ?
+## How to use
 
 As first we need to register user in system use fields with personal user data. Unappropriate entries are detected and user will see typing error. After user registration process we can sign into service with given user name and password.
 
