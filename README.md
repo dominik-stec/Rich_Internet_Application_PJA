@@ -49,7 +49,7 @@
   <summary>Table of contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About the project</a>
+      <a href="#about-the-project">Project description</a>
       <ul>
         <li><a href="#built-with">Libraries / Frameworks</a></li>
       </ul>
@@ -75,7 +75,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## Project description
 
 <!-- [![Main_view][product-screenshot]][product-screenshot] -->
 <img src="images/screenshot.png" width="500"/>
@@ -124,7 +124,7 @@ Angular devkit package install with Node Package Manager is need. <br />
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dccstcc/BIU_PJATK.git
+   git clone https://github.com/dccstcc/Rich_Internet_Application_PJA.git
    ```
 2. Go to folder with Angular sources
    ```sh
@@ -140,7 +140,7 @@ Angular devkit package install with Node Package Manager is need. <br />
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+## How to use ?
 
 As first we need to register user in system use fields with personal user data. Unappropriate entries are detected and user will see typing error. After user registration process we can sign into service with given user name and password.
 
