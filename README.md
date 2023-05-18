@@ -51,7 +51,7 @@
     <li>
       <a href="#Project-description">Project description</a>
       <ul>
-        <li><a href="#Libraries-/-Frameworks">Libraries / Frameworks</a></li>
+        <li><a href="#Libraries-//-Frameworks">Libraries / Frameworks</a></li>
       </ul>
     </li>
     <li>
@@ -64,7 +64,7 @@
         <li><a href="#Installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#How-to-use-?">How to use ?</a></li>
+    <li><a href="#How-to-use-/?">How to use ?</a></li>
     <!-- <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#License">License</a></li>
