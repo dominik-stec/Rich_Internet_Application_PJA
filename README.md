@@ -82,7 +82,7 @@
 
 In this project I realise Single Page Application with Angular in version 5. SPA module is representation of user authorization process with field content control against throws exceptions caused wrong keybord typing.
 
-### Built With
+### Libraries / Frameworks
 
 This project use technology below.
 
@@ -91,15 +91,15 @@ This project use technology below.
 
 <!-- DOCKER -->
 
-## Docker
+## Docker deploy
 
 ```sh
 docker build -t biupjatk:latest .
 docker run -it -p 4200:4200 --name biupjatk biupjatk:latest
 ```
 
-Run project in web browser
-Default adress set in framewrok is:
+Run project in web browser <br>
+Default adress set in framewrok is: <br>
 [https://localhost:4200/](https://localhost:4200/)
 
 <!-- NATIVE DEPLOY -->
@@ -134,8 +134,8 @@ Angular devkit package install with Node Package Manager is need. <br />
    ```sh
    ng serve
    ```
-4. Run project in web browser
-   Default adress set in framewrok is:
+4. Run project in web browser <br>
+   Default adress set in framewrok is: <br>
    [https://localhost:4200/](https://localhost:4200/)
 
 <!-- USAGE EXAMPLES -->
