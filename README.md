@@ -28,12 +28,12 @@
     <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
-  <h2 align="center">BIU_PJATK</h2>
+  <h2 align="center">Rich Internet Application (RIA) subject in PJATK</h2>
 
   <p align="center">
-    <h3> Rich Interfaces of User subject in PJATK </h3>
+    <h3> Bogate Interfejsy Użytkownika (BIU PJATK) </h3>
     <br />
-    <a href="https://github.com/dccstcc/BIU_PJATK"><strong>» go to CODE »</strong></a>
+    <a href="https://github.com/dccstcc/Rich_Internet_Application_PJA"><strong>» go to source code »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -46,16 +46,16 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Table of contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About the project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Libraries / Frameworks</a></li>
       </ul>
     </li>
     <li>
-      <a href="#docker">Docker</a>
+      <a href="#docker">Docker deploy</a>
     </li>
     <li>
       <a href="#native-deploy">Native deploy</a>
@@ -64,11 +64,11 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">How to use ?</a></li>
     <!-- <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact">Contact with me</a></li>
     <!-- <li><a href="#acknowledgements">Acknowledgements</a></li> -->
   </ol>
 </details>
@@ -97,6 +97,10 @@ This project use technology below.
 docker build -t biupjatk:latest .
 docker run -it -p 4200:4200 --name biupjatk biupjatk:latest
 ```
+
+Run project in web browser
+Default adress set in framewrok is:
+[https://localhost:4200/](https://localhost:4200/)
 
 <!-- NATIVE DEPLOY -->
 
@@ -167,20 +171,20 @@ Contributions are what make the open source community such an amazing place to l
 ## License
 
 This project has not a license.
-All rights are reserved and it is not Open Source or free. You cannot modify or redistribute this code without explicit permission from the copyright holder, because projects I realised are my materials from PJATK studies.
+All rights are reserved and it is not Open Source or free. You cannot modify or redistribute this code without explicit permission from the copyright holder, because projects which I realised are private conception from PJATK studies.
 See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
 ## Contact
 
-Dominik Stec - dccstcc@gmail.com
+Dominik Stec - dominikstec@devapp.tools
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project URL:
 <br />
-`https://github.com/dccstcc/BIU_PJATK.git`
+`https://github.com/dccstcc/Rich_Internet_Application_PJA`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
