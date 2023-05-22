@@ -205,16 +205,16 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dccstcc/BIU_PJATK.svg?style=for-the-badge
-[contributors-url]: https://github.com/dccstcc/BIU_PJATK/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dccstcc/BIU_PJATK.svg?style=for-the-badge
-[forks-url]: https://github.com/dccstcc/BIU_PJATK/network/members
-[stars-shield]: https://img.shields.io/github/stars/dccstcc/BIU_PJATK.svg?style=for-the-badge
-[stars-url]: https://github.com/dccstcc/BIU_PJATK/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dccstcc/BIU_PJATK.svg?style=for-the-badge
-[issues-url]: https://github.com/dccstcc/BIU_PJATK/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/Rich_Internet_Application_PJA.svg?style=for-the-badge
+[contributors-url]: https://github.com/dominik-stec/Rich_Internet_Application_PJA/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dominik-stec/Rich_Internet_Application_PJA.svg?style=for-the-badge
+[forks-url]: https://github.com/dominik-stec/Rich_Internet_Application_PJA/network/members
+[stars-shield]: https://img.shields.io/github/stars/dominik-stec/Rich_Internet_Application_PJA.svg?style=for-the-badge
+[stars-url]: https://github.com/dominik-stec/Rich_Internet_Application_PJA/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dominik-stec/Rich_Internet_Application_PJA.svg?style=for-the-badge
+[issues-url]: https://github.com/dominik-stec/Rich_Internet_Application_PJA/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dccstcc/BIU_PJATK/blob/master/LICENSE.md
+[license-url]: https://github.com/dominik-stec/Rich_Internet_Application_PJA/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
